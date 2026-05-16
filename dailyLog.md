@@ -14,6 +14,7 @@
 Tech Stack          |     what for              | why chosen            |
 --------------------|---------------------------|-----------------------|
 React, Typescript   | Frontend                  | comfort, industry, want to learn more
+DaisyUI, Tailwind   | React component library   | opinionated
 Python              | Backend                   | comfort
 FastAPI             | Python API, speed         | industry, want to learn
 Zustand             | Simple state mangement    | want to learn, easy to learn
