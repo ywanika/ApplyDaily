@@ -1,6 +1,6 @@
 Work In Progress
 
-Web app to appy to job with AI help, built off of ApplyPilot repo
+Web app to appy to job with AI help, **built off of ApplyPilot repo**
 
 Src modules - tasks:
 * Wizard, convert answers to json
