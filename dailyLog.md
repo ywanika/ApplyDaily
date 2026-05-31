@@ -1,13 +1,13 @@
 # Anika Sharma's daily log to track learning and structure
 
-## 4/13/26
+## 5/13/26
 - Explored [ApplyPilot repo] (https://github.com/Pickle-Pixel/ApplyPilot)
 
-## 4/14/26
+## 5/14/26
 - Worked with Claude to develop idea and product spec document
 - Worked with Claude to create UI design in Figma
 
-## 4/15/26
+## 5/15/26
 - Used Claude to draft file structure, edited according to personal knowledge, validated against Google
 - Determine techstack
 
@@ -23,11 +23,11 @@ Playwright          | Web automation            | what ApplyPilot uses
 
 - initialized Vite, Tailwind, and DaisyUI with help from gemini
 
-## 4/16/26
+## 5/16/26
 - copied over database setup from ApplyPilot
 - will stick with apply pilot's job discovery process (and other modules) as is for now and add in discovery from Simplify and Jobright git repos ( /make other edits ) later
 
-## 4/19/26
+## 5/19/26
 - copied over more ApplyPilot functions
 
 > User control (component) -> hook -> services call a route
@@ -36,6 +36,14 @@ Playwright          | Web automation            | what ApplyPilot uses
 
 - researched Fast API
 - made wireframe in Figma
-- drafted API routes 
+
+## 5/31/26
+- drafted API routes, looking at fast api and pydantic docs and folowing figma wireframe
+
+> perhaps full google drive integration? app just needs access to gdrive resume. app can open gdrive, make copy of resume, make suggestions, then (who?) can upload to job app. and for cover letter, copies over old one for formating and then rewrites content.
+> convert main.py to be middleware?
+> add redo 3 jobs w why all these were bad
+
+- copied over more ApplyPilot functions (add modules)
 
 

@@ -10,7 +10,7 @@ Src modules - tasks:
 * Write Cover Letter
 * Scrape linkedin candidates
 
-Server - data and client interactions
+Server - data and client interactions, page routing
 * Wizard
 * Select and display job -can claude display the job given unstructured data?
 * Edit Resume
