@@ -15,6 +15,10 @@ class JobInfo(BaseModel):
 
 app = FastAPI()
 
+@app.get("/home")
+def firstPage():
+  return #is_first_time
+
 @app.post("/save-wizard")
 def save_wizard(userData: Annotated[WizardFormData, Form()]):
     return {"message": "todo: save wizard"}

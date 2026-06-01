@@ -39,11 +39,13 @@ Playwright          | Web automation            | what ApplyPilot uses
 
 ## 5/31/26
 - drafted API routes, looking at fast api and pydantic docs and folowing figma wireframe
+> fast api being used as api for data base vs for page routing or both?
 
 > perhaps full google drive integration? app just needs access to gdrive resume. app can open gdrive, make copy of resume, make suggestions, then (who?) can upload to job app. and for cover letter, copies over old one for formating and then rewrites content.
 > convert main.py to be middleware?
 > add redo 3 jobs w why all these were bad
+> having no pages and the app.tsx running vs having pages
 
-- copied over more ApplyPilot functions (add modules)
-
-
+## 6/1
+- researched chrome extension/integration
+- started writing a prouct spec md and tutoring agent.md
