@@ -1,4 +1,4 @@
-Work In Progress
+Backlogged after designing the tech stack and base architecture.
 
 Web app to appy to job with AI help, **built off of ApplyPilot repo**
 
